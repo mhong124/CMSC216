@@ -1,0 +1,36 @@
+halt
+lt R0 R17
+lt R0 R17
+branch 00000
+li R0 1025
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+halt
+00000000
+00000000
+00000000
+00000000
+00000000
+success!
